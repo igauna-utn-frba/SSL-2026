@@ -2,7 +2,7 @@
 
 ### Datos del Alumno
 * **Compilador:** gcc
-* **Versión del Compilador:** 6.3.0
-* **Versión de C:** 
+* **Versión del Compilador:** 15.2.0
+* **Versión de C:** C23
 * UTN-FRBA
 * 2026 
